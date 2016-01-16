@@ -1,5 +1,5 @@
 ROAD RUNNER by Philip Oliver
-for the Dragon 32, 1984
+for the Dragon 32, January 1984
 
 Reproduced with permission
 by Dark Archon for arhn.eu
