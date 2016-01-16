@@ -22,7 +22,7 @@ corrected.
 The .bas file included is a plain-text
 ASCII BASIC file that can be edited
 or loaded directly into most Dragon 32
-emulators (testd on Xroar)
+emulators (tested on Xroar)
 and then loaded like a cassette
 using the CLOAD command.
 
